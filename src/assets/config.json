@@ -1,0 +1,19 @@
+{
+  "api_host": "https://kfe.idearobin.com/api/v1",
+  "company": "Empire One Credit",
+  "name": "EOC CRM",
+  "admin_type": 1,
+  "logic": {
+    "login_is_active": 1
+  },
+  "lang": "en",
+  "reset_password_uri": "/login?trx=reset-password",
+  "token_key": "token",
+  "user_type": 1,
+  "user_login": "email_address",
+  "default": {
+    "items_per_page": 10,
+    "sort_order": "sort_order"
+  },
+  "logic": {},
+}
